@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistics, Probability, and Cluster Analysis
 - 🌱 I’m currently learning PhD in Statistics, Pondicherry University
 - 💞️ I’m looking to collaborate on Cluster Analysis and Statistcs Projects
-- 📫 How to reach me skbhat.in@gmail.com 
+- 📫 How to reach me skbhat.in@gmail.com or linkedin https://www.linkedin.com/in/kskbhat/
 
 <!---
 kskbhat/kskbhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
